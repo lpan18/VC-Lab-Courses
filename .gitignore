@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.pdf
+**/test.m
+data/
+faces.mat
